@@ -1,0 +1,10 @@
+{
+  "name": "practica-node-git",
+  "version": "1.0.0",
+  "description": "Examen practico de Git y Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
