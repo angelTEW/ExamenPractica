@@ -8,7 +8,7 @@ function calcularPromedio(notas) {
   
   console.log(`Notas descartadas: ${descartadas}`);
   console.log("Hace falta mas informacion");
-  console.log("Another change");
+  console.log("Fo the love of the money");
 
   if (notasValidas.length === 0) return 0;
 
